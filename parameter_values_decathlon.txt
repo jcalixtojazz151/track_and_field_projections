@@ -1,0 +1,11 @@
+event, event_type, a, b, c
+100m, track, 25.4347, 18, 1.81
+long_jump, field, 0.14354, 220, 1.4
+shot_put, field, 51.39, 1.5, 1.05
+high_jump, field, 0.8465, 75, 1.42
+400m, track, 1.53775, 82, 1.81
+110m_hurdles, track, 5.745352, 28.5, 1.92
+discus_throw, field, 12.91, 4, 1.1
+pole_vault, field, 0.2797, 100, 1.35
+javelin_throw, field, 10.14, 7, 1.08
+1500m, track, 0.03768, 480, 1.85
